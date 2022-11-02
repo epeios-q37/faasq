@@ -42,7 +42,7 @@ mods += plgncore sck strmrg
 mods += csdbnc csdcmn 
 mods += xdhcdc xdhcuc xdhcmn xdhups xdhutl 
 mods += scla scli sclm scle scll 
-mods += sclr sclt 
+mods += sclr sclt sclc 
 mods += registry session 
 
 pmods += pllio 
