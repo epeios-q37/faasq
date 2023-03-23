@@ -419,7 +419,7 @@ ifeq ("$(target)","$(Android)")
 	rm -rf *.d
 endif
 
-copt += -DVERSION=\""20230117"\"
+copt += -DVERSION=\""20230316"\"
 copt += -DCOPYRIGHT_YEARS=\""2019"\"
 copt += -DIDENTIFIER=\""5bbd86e7-97af-42f2-938d-8738f52fc275"\"
 
